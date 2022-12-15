@@ -3,6 +3,20 @@
 
 ## Papers
 ------------------------------------------------------------
+### Shot Boundary Detection(Scene Detection)
+------------------------------------------------------------
+> Shot boundary detection (SBD) is the process of automatically detecting the boundaries between shots in video.
+
+#### 2019
+
+- TransNet: A deep network for fast detection of common shot transitions(**arXiv 2019**) [[paper](https://arxiv.org/pdf/1906.03363.pdf)]
+
+#### 2020 
+
+- TransNet V2: An effective deep network architecture for fast shot transition detection(**arXiv 2020**) [[paper](https://arxiv.org/pdf/2008.04838.pdf) [code](https://github.com/soCzech/TransNetV2)]
+
+
+
 ### Video Moment Localization
 ------------------------------------------------------------
 >Video moment localization, also known as video moment retrieval(VMR) or natural language video localization (NLVL) or temporal sentence grounding in videos (TSGV), aiming to retrieve a temporal moment that semantically corresponds to a language query from an untrimmed video.
